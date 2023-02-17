@@ -1,0 +1,19 @@
+{
+    "name": "ken/employees",
+    "description": "This is an employee registration plugin that has composer",
+    "type": "project",
+    "license": "GPLv2",
+    "autoload": {
+        "psr-4": {
+            "Inc\\": "./inc"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kennedy-karuri",
+            "email": "kennkaruri99@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
